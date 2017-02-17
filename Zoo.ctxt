@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Zoo()
+comment1.params=numAnimals
+comment1.target=Zoo(int)
+comment2.params=
+comment2.target=void\ soundOff()
+comment3.params=p1\ p2\ p3
+comment3.target=void\ countNumLegs(Pet,\ Pet,\ Pet)
+numComments=4
